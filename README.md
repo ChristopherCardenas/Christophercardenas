@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería en Computación e Informática en la UNPRG. Hago p
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Sta+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
