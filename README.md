@@ -1,47 +1,11 @@
 Soy estudiante de Ingeniería en Computación e Informática en la UNPRG. Hago páginas web interactivas utilizando HTML, CSS, JavaScript, bootstrap, React, Tailwind CSS, Figma, SQL, PHP, Git y GitHub. Me apasiona construir experiencias digitales modernas, con un enfoque en la usabilidad y el diseño limpio. Busco aplicar mis habilidades para transformar ideas en soluciones web funcionales.
 
-<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Banner estilo terminal">
-<defs>
-<linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0%" stop-color="#0b0f14"/>
-<stop offset="100%" stop-color="#0a0e12"/>
-</linearGradient>
-<filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
-<feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity="0.4"/>
-</filter>
-<style>
-.win { fill:#0e141b; }
-.dot1{ fill:#ff5f57;} .dot2{ fill:#febc2e;} .dot3{ fill:#28c840;}
-.line{ font: 600 18px 'Fira Code',Consolas,Monaco,monospace; fill:#c8d1d9; }
-.cmd { fill:#8bd5ca; }
-.out { fill:#8aa4b0; }
-.path{ fill:#7aa2f7; }
-.caret{ fill:#a6e3a1; }
-.title{ font:700 20px 'Fira Code',Consolas,monospace; fill:#8aa4b0; letter-spacing:1px }
-.brand{ fill:url(#g); stroke:#1b2530; stroke-width:1; rx:16; ry:16 }
-</style>
-</defs>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Sta+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
-
-<rect x="40" y="30" width="1120" height="220" class="brand" filter="url(#soft)"/>
-<rect x="40" y="30" width="1120" height="36" class="win"/>
-<circle cx="64" cy="48" r="6" class="dot1"/>
-<circle cx="84" cy="48" r="6" class="dot2"/>
-<circle cx="104" cy="48" r="6" class="dot3"/>
-<text x="120" y="52" class="title">~/github/README</text>
-
-
-<!-- prompt lines -->
-<text x="80" y="90" class="line"><tspan class="path">christopher@dev</tspan>:<tspan fill="#a6accd">~</tspan>$ <tspan class="cmd">git clone</tspan> <tspan class="out">https://github.com/tu-usuario/tu-repo</tspan></text>
-<text x="80" y="120" class="line"><tspan class="path">christopher@dev</tspan>:<tspan fill="#a6accd">~/tu-repo</tspan>$ <tspan class="cmd">npm i</tspan></text>
-<text x="80" y="150" class="line"><tspan class="path">christopher@dev</tspan>:<tspan fill="#a6accd">~/tu-repo</tspan>$ <tspan class="cmd">npm run build</tspan></text>
-<text x="80" y="180" class="line out">✔ build complete · tests passed · 0 vulnerabilities</text>
-<text x="80" y="210" class="line"><tspan class="path">christopher@dev</tspan>:<tspan fill="#a6accd">~/tu-repo</tspan>$ <tspan>code .</tspan><tspan class="caret">▌</tspan></text>
-
-
-<!-- blinking caret -->
-<animate xlink:href=".caret" attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-</svg>
 <p>
   <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
 </p>
