@@ -1,6 +1,8 @@
 Soy estudiante de Ingeniería en Computación e Informática en la UNPRG. Hago páginas web interactivas utilizando HTML, CSS, JavaScript, bootstrap, React, Tailwind CSS, Figma, SQL, PHP, Git y GitHub. Me apasiona construir experiencias digitales modernas, con un enfoque en la usabilidad y el diseño limpio. Busco aplicar mis habilidades para transformar ideas en soluciones web funcionales.
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <p>
   <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
@@ -11,7 +13,7 @@ Soy estudiante de Ingeniería en Computación e Informática en la UNPRG. Hago p
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Sta+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
