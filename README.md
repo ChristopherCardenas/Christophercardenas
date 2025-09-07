@@ -102,7 +102,7 @@ Busco aplicar mis habilidades para transformar ideas en **soluciones web funcion
     </td>
     <td>
       <img alt="WordPress" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png" />  
-      <br>WordPress (Básico)
+      <br>WordPress (Intermedio)
     </td>
   </tr>
 </table>
